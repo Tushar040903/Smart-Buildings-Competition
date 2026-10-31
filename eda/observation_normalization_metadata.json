@@ -1,0 +1,67 @@
+{
+  "supply_air_damper_percentage_command": {
+    "sample_mean": 0.5,
+    "sample_variance": 0.25,
+    "sample_std": 0.5
+  },
+  "reheat_valve_percentage_command": {
+    "sample_mean": 0.5,
+    "sample_variance": 0.25,
+    "sample_std": 0.5
+  },
+  "zone_air_temperature_sensor": {
+    "sample_mean": 295.0,
+    "sample_variance": 25.0,
+    "sample_std": 5.0
+  },
+  "supply_air_temperature_sensor": {
+    "sample_mean": 290.0,
+    "sample_variance": 25.0,
+    "sample_std": 5.0
+  },
+  "supply_air_temperature_setpoint": {
+    "sample_mean": 290.0,
+    "sample_variance": 25.0,
+    "sample_std": 5.0
+  },
+  "supply_air_cooling_temperature_setpoint": {
+    "sample_mean": 290.0,
+    "sample_variance": 25.0,
+    "sample_std": 5.0
+  },
+  "supply_air_heating_temperature_setpoint": {
+    "sample_mean": 290.0,
+    "sample_variance": 25.0,
+    "sample_std": 5.0
+  },
+  "outside_air_temperature_sensor": {
+    "sample_mean": 295.0,
+    "sample_variance": 100.0,
+    "sample_std": 10.0
+  },
+  "supply_water_setpoint": {
+    "sample_mean": 330.0,
+    "sample_variance": 400.0,
+    "sample_std": 20.0
+  },
+  "differential_pressure_setpoint": {
+    "sample_mean": 10.0,
+    "sample_variance": 36.0,
+    "sample_std": 6.0
+  },
+  "run_status": {
+    "sample_mean": 0.5,
+    "sample_variance": 0.25,
+    "sample_std": 0.5
+  },
+  "supervisor_run_command": {
+    "sample_mean": 0.5,
+    "sample_variance": 0.25,
+    "sample_std": 0.5
+  },
+  "cooling_request_count": {
+    "sample_mean": 50.0,
+    "sample_variance": 2500.0,
+    "sample_std": 50.0
+  }
+}

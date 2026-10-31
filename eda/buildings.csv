@@ -1,0 +1,7 @@
+building,floors,zones,ahus,observation_dim,continuous_dim,discrete_dim,grid_cells,initial_missing,exterior_conductivity,exterior_density,interior_mass_density
+building_train_1,3,39,4,352,92,5,205434,0,0.2119,1967.2446,32.2919
+building_train_2,2,85,9,703,199,10,263328,0,0.3385,577.6431,14.3595
+building_train_4,3,54,6,472,128,7,286848,0,0.182,474.8436,23.3826
+building_train_5,4,79,8,652,184,9,293436,0,0.3041,1187.2131,28.0107
+building_train_7,2,36,4,334,86,5,127782,0,0.5479,414.816,35.6803
+building_train_8,2,30,3,283,71,4,123520,0,0.2703,1138.8883,11.4679

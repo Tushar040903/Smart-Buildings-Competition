@@ -1,0 +1,128 @@
+{
+  "ahu_1_supervisor_run_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_1_supply_air_temperature_setpoint": {
+    "min_native_value": 285.0,
+    "max_native_value": 305.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_1_supply_air_static_pressure_setpoint": {
+    "min_native_value": 0.0,
+    "max_native_value": 2000.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_1_recirculation_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_2_supervisor_run_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_2_supply_air_temperature_setpoint": {
+    "min_native_value": 285.0,
+    "max_native_value": 305.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_2_supply_air_static_pressure_setpoint": {
+    "min_native_value": 0.0,
+    "max_native_value": 2000.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_2_recirculation_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_3_supervisor_run_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_3_supply_air_temperature_setpoint": {
+    "min_native_value": 285.0,
+    "max_native_value": 305.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_3_supply_air_static_pressure_setpoint": {
+    "min_native_value": 0.0,
+    "max_native_value": 2000.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_3_recirculation_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_4_supervisor_run_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_4_supply_air_temperature_setpoint": {
+    "min_native_value": 285.0,
+    "max_native_value": 305.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_4_supply_air_static_pressure_setpoint": {
+    "min_native_value": 0.0,
+    "max_native_value": 2000.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "ahu_4_recirculation_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "supervisor_run_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "supply_water_temperature_setpoint": {
+    "min_native_value": 310.0,
+    "max_native_value": 350.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "differential_pressure_setpoint": {
+    "min_native_value": 0.0,
+    "max_native_value": 20.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "supply_air_damper_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  },
+  "reheat_valve_percentage_command": {
+    "min_native_value": 0.0,
+    "max_native_value": 1.0,
+    "min_normalized_value": -1.0,
+    "max_normalized_value": 1.0
+  }
+}
